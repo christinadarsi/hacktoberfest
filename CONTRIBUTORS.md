@@ -2,6 +2,11 @@
  - Place: North Carolina, USA
  - Bio: Learning Web Dev & Design
  - GitHub: [lulabell](https://github.com/lulabell)
+ 
+#### Name: [Christina](https://github.com/christinadarsi)
+ - Place: Hyderabad,India
+ - Bio: Android Application Developer
+ - GitHub: [christinadarsi](https://github.com/christinadarsi)
 
 #### Name: [Tejas S](https://github.com/tejassateesh)
  - Place: Bengaluru, India
